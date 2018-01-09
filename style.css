@@ -1,0 +1,29 @@
+body {
+        background-color:aqua;
+    }
+        
+div {
+            width:30%;
+    }
+    
+#list {
+        background-color:aquamarine;
+        width:30%;
+        border: 1px solid black;
+        }
+
+li {
+        cursor:move;
+        margin-bottom: 10px;
+    
+      }
+li:hover {
+    background-color:yellow;
+    }
+
+button {
+    font-size: 12px;
+    margin-left: 20px;
+    color: #666;
+        
+      }
